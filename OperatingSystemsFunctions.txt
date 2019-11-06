@@ -1,3 +1,6 @@
 If you have a MacBook Pro with a Touch Bar, you can easily sign into your Mac using your finger. 
+Or you can log in with your iPhone or Apple Watch if they are close enough to the computer.
+The macOS Notifications panel lets you send text messages by syncing up to a nearby iPhone, all your photos can be shared across devices in Apple Photos, you can transfer almost anything with AirDrop, and you can even engage in video calling with FaceTime between devices
+Apple Watch is yet another piece of the integrated ecosystem that Windows can’t match.
 You get decent mail clients, calendars, calculators, photo and video viewers and editors, screenshot tools, voice recorders, and web browsers, and apps for maps, cameras, news, weather, and contacts.
 You’ll miss out on syncing machines, voice assistants, app roaming, messages, and a whole lot of other goodies by not signing in.

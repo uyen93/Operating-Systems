@@ -4,3 +4,6 @@ The macOS Notifications panel lets you send text messages by syncing up to a nea
 Apple Watch is yet another piece of the integrated ecosystem that Windows can’t match.
 You get decent mail clients, calendars, calculators, photo and video viewers and editors, screenshot tools, voice recorders, and web browsers, and apps for maps, cameras, news, weather, and contacts.
 You’ll miss out on syncing machines, voice assistants, app roaming, messages, and a whole lot of other goodies by not signing in.
+Custom business applications are more likely to be supported on Windows, and macOS is prevalent in creative fields.
+you can find plenty of good general business software for Macs actually boasts more options in some creative areas, such as video editing and photo software.
+MacOS apps makes you drag a disk image to the Applications folder, and that's just one of at least three different ways to install apps on a Mac.
